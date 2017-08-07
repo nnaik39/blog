@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a high school junior at Proof School interested in CS and literature.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nanni.naik@gmail.com](mailto:nanni.naik@gmail.com)
