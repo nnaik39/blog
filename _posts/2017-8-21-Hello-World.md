@@ -7,19 +7,19 @@ Ever since my independent AI study in spring, I’ve been pretty excited about m
 
 > i skateboard the forest
 
-ravens to her i was me
+> ravens to her i was me
 
-dream of the tell of forest
+> dream of the tell of forest
 
-from the forest of those we her steel
+> from the forest of those we her steel
 
-i steel of nests was i was a me deny her nothing!
+> i steel of nests was i was a me deny her nothing!
 
-yellow and and the and to the climax and that the then the instance; and and the passion-song and the owe.
+> yellow and and the and to the climax and that the then the instance; and and the passion-song and the owe.
 
-tumbling my i was the forest we a the forest
+> tumbling my i was the forest we a the forest
 
-and the yellow and the wild and the he?
->
+> and the yellow and the wild and the he?
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
