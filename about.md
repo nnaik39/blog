@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /about/
 ---
 
 I am a high school junior at Proof School interested in CS and literature.
