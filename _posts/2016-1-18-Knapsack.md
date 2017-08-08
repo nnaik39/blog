@@ -1,3 +1,8 @@
+---
+layout: post
+title: Solving the Knapsack Problem with a Genetic Algorithm
+---
+
 The knapsack problem is in optimization: given a set of N items, each with a weight and a value, what is the optimal subset of them which keeps the total weight under a fixed number and maximizes the total value? The name refers to a common problem in packing luggage, and this problem appears in a lot of different fields like cryptography and investments and portfolios.
 
 There are three types of the knapsack problem. The most common is the 0-1, where only one of each item in the set is provided. In this, the total number of subsets would be 2^n, and you must choose the optimal subset whose weight is under a value and whose total value is maximal.
