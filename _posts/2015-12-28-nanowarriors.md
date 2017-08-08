@@ -1,3 +1,8 @@
+---
+layout: post
+title: Nano Warriors: The New Frontier of Health Engineering
+---
+
 (Originally posted at EngineerGirl.org)
 
 The dilapidated door hangs in its frame as I stumble through it, blinking in the sunlight after spending hours indoors. Gazing around, I spy a droid wheeling by. Monorails whiz overhead, and chattering children tug avidly on their mother’s hand. Welcome to 2064.
