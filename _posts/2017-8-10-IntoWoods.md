@@ -1,4 +1,8 @@
-## Thoughts on Into the Woods
+---
+layout: post
+title: Thoughts on Into the Woods
+---
+
 
 Steven Sondheim’s Into the Woods is an inverted fairy tale. It takes familiar characters like Cinderella and Red Riding Hood, and gives them their happy endings--in the first half. In the second half, the audience watches the glorious unraveling of “happy ever after”. This includes deaths, adultery, and so much more. It’s like realism a la George R.R. Martin. 
 
