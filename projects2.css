@@ -1,1 +1,48 @@
+body {
+  background-color: #EDFBFF;
+}
 
+h1 {
+    color: black;
+    margin: auto;
+    text-align: center;
+    font-family: verdana;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.overlay {
+  position: absolute;
+  margin: auto;
+  top: 90px;
+  bottom: 10px;
+  left: 47px;
+  right: 0px;
+  height: 80%;
+  width: 20%;
+  opacity: 0;
+  transition: .5s ease;
+}
+
+div {
+    position: relative;
+    width: 210px;
+    height: 200px;
+    vertical-align: middle;
+}
+
+img {
+    position: absolute;
+    margin: auto;
+    top: 100px;
+    left: 47px;
+    right: 0px;
+    bottom: 10px;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
