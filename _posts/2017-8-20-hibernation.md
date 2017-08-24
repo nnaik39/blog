@@ -16,4 +16,4 @@ much like how an animal sees this word.
 
 This piece ended up with a narrative arc. Basically, it describes a group of humans who are influenced by what they see
 in their dreams and revert to more animalistic tendencies. I've been experimenting with enjambment and repetition, so that's reflected
-here. I'd appreciate it if you'd check it out [here]((https://therisingphoenixreview.com/2017/08/16/hibernation-by-nandita-naik/))! I think it's one of my favorite pieces so far!
+here. I'd appreciate it if you'd check it out [here](https://therisingphoenixreview.com/2017/08/16/hibernation-by-nandita-naik/)! I think it's one of my favorite pieces so far!
