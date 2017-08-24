@@ -1,3 +1,7 @@
+---
+layout: post
+title: Cagelife
+---
 
 My poem Cagelife has also been [published](https://therisingphoenixreview.com/2017/08/22/cagelife/) in the Rising Phoenix Review!
 By the way, I would recommend checking out the other poetry up on that webzine. They're committed to diversity, so a lot of
