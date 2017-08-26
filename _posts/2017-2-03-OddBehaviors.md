@@ -18,17 +18,17 @@ Last year, I was part of the combinatorial games group. We investigated a game c
 
 Consider a circle of n people. One person begins with a piece of bread. Let’s call him Greenie.
 
-![Demo #1](\res\demogame-1)
+![Demo #1](\res\demogame-1.png)
 
 (The line wraps around.)
 
 Now Bluey and Purplie don’t appreciate how greedy Greenie is being, so they force him to break his bread and give half to both of them.
 
-![Demo #2](\res\demogame-2)
+![Demo #2](\res\demogame-2.png)
 
 The people are still unhappy with this arrangement, so then Bluey and Purplie break their bread in half and pass it to both of their neighbors on either side.
 
-![Demo #3](\res\demogame-3)
+![Demo #3](\res\demogame-3.png)
 
 ## Patterns
 
