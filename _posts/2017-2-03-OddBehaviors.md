@@ -66,3 +66,19 @@ Well, well, well! What do we have here?
 Our earlier hypothesis, that the behavior of a game depends on the number of players, doesn’t work here! A tetrahedron, cube, and dodecahedron all have an even number of vertices. So what is going on here?
 
 Let’s take a look at the connectivity graph of a tetrahedron, which exhibits “odd” behavior (lol), and the connectivity graph of a cube, which exhibits “even” behavior. As you can see, I’ve colored the vertices red and blue, and colored certain edges green.
+
+![comparison graph](\res\graph-comparison.png)
+
+In a graph with an even number of vertices, the bread will be exchanged between two sets of people. This means that if the vertices of the graph, where it’s played on a polyhedron or a pineapple, can be divided into these two sets, then they exhibit an even behavior. Another word for dividing the vertices into two sets is bipartite.
+
+In order for a graph to be bipartite, we must be able to split the vertices into set A and set B. Any vertex in set A must only be connected to a vertex from set B, and vice versa.
+
+The reason that the tetrahedron and dodecahedron behave like an “odd” game is because they have odd cycles! A cycle is when you start at one vertex, take a walk to other vertices, and return to your starting vertex. An odd cycle is when the number of vertices visited is odd. A graph which has odd cycles cannot be bipartite.
+
+We can see this in the connectivity graph of a dodecahedron, which was made in Adobe Illustrator by my wonderfully talented friend:
+
+![dodecahedron graph](\res\dodeca-graph.png)
+
+Clearly, some of the red vertices are connected to other red vertices.
+
+A game only exhibits even behavior if its connectivity graph is bipartite! This makes sense! We didn’t get around to proving this, but intuitively, if you have an even game, two vertices which have edges connecting them cannot hold bread at the same time. This doesn’t satisfy that condition. So, really, our graphs were behaving oddly, all along.
