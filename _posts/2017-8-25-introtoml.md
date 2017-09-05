@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Artistic Introduction to ML
+title: A Somewhat Artsy Introduction to ML
 ---
 *note: in progress*
 
