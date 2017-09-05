@@ -54,7 +54,7 @@ All this Snapchat talk leads us to a definition: broadly speaking, machine learn
 
 It works similar to our brain. Just like us, it learns from observing, predicting, and self-correcting. To see how it works, let’s take an example.
 
-(This example was adapted from Michael Nielsen’s wonderful [book] http://neuralnetworksanddeeplearning.com/)
+(This example was adapted from Michael Nielsen’s wonderful [book] (http://neuralnetworksanddeeplearning.com/)
 
 Suppose the weekend’s coming up, and you heard of a concert. You have to make a decision: do you go to the concert? Or stay home?
 
@@ -78,7 +78,7 @@ At least, not right away.
 
 ## Solution
 
-They **learn** the weights by studying lots and lots of examples.
+They **learn** the weights by studying lots and lots of examples. This comes back to our definition: machine learning is learning from data.
 
 To understand how a machine learns from data, let’s take a simple example: linear regression.
 
@@ -86,3 +86,38 @@ Suppose I go around my school and ask nine kids: what’s your current grade? Ho
 Then I plot the answers on this graph.
 
 [insert graph]
+
+A new person enrolls at my school, and I know their current grade. I want to predict: how many hours of homework would they have? Graphically, it would look like this:
+
+[insert graph]
+
+What's the best way for me to predict the y-value for the purple dot?
+
+(Take a moment or two to think about this)
+
+Answer: Fit a line to the data!
+
+[insert graph]
+
+Then we can nicely predict where the purple dot is going to fall.
+
+[insert graph]
+
+What if we want a computer to learn this function?
+
+## Goal: Guess f(x)!
+
+Let's assume f(x) is linear, so we can write y = wx + b. We don't know what *w* and *b* are. Let's guess.
+
+Guess #1:
+
+[insert graph]
+
+Guess #2:
+
+[insert graph]
+
+Guess #3:
+
+[insert graph]
+
