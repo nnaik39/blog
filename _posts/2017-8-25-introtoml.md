@@ -13,3 +13,14 @@ title: An Artistic Introduction to ML
 This is the first photograph that was ever taken. It was taken by Joseph Niepce around 1826. This is the view from an upstairs window at his estate. Nowadays, photographs look more realistic and colorful and vibrant, like the ones in National Geographic. I imagine that when Joseph Niepce took this photograph, he could have never foreseen the many directions photography has taken art over the years. 
 
 Then we get to digital art, which is a huge field today. Below we can see an example of photoshop, as this image has definitely been photoshopped like crazy! We see photoshop in our daily lives all the time, from magazine covers to advertisements to Instagram pictures.
+
+[![Funny Photoshop](
+https://s-media-cache-ak0.pinimg.com/originals/c9/b8/c4/c9b8c4461b9b1c1dc2b8beb6cb9519c2.jpg)](
+https://s-media-cache-ak0.pinimg.com/originals/c9/b8/c4/c9b8c4461b9b1c1dc2b8beb6cb9519c2.jpg)
+
+** Importantly, none of these are machine intelligence, because a human is doing the thinking. **
+
+This post is concerned with what happens when the machine is more than a tool, when it can make intelligent decisions.
+
+## So what does machine-generated art look like?
+
