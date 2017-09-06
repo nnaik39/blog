@@ -38,11 +38,16 @@ Let's look at another transformation.
 
 **Before:**
 
-![deepdream art](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-38-26-pm.png?ssl=1&w=450)
+[![ml art](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-38-26-pm.png?ssl=1&w=450
+)](
+https://farm8.staticflickr.com/7294/8732030861_1a72dec272_b.jpg)
 
 **After:**
 
-![deepdream art](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-38-33-pm.png?ssl=1&w=450)
+[![ml art](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-38-33-pm.png?ssl=1&w=450
+)](
+https://farm8.staticflickr.com/7294/8732030861_1a72dec272_b.jpg)
+
 
 Interestingly, the machine found a pattern of a bird inside these abstract swirls! This was made with Google's DeepDream. Imagine how hard it would be to PhotoShop this.
 
@@ -51,7 +56,11 @@ Interestingly, the machine found a pattern of a bird inside these abstract swirl
 People my age use something called the puppy-dog face filter, where the camera superimposes a puppy’s nose over their own and give themselves puppy ears.
 Here's an example of Ariana Grande with the puppy face filter.
 
-![puppy filter](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-34-41-pm.png?ssl=1&w=450)
+![puppy filter](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-34-41-pm.png?ssl=1&w=450
+)](
+http://assets.teenvogue.com/photos/579918989e016460296a15a2/master/pass/2%20-%20Ariana%20Grande.jpg)
+
+
 
 ## What’s going on here?
 
