@@ -80,7 +80,7 @@ It works similar to our brain. Just like us, it learns from observing, predictin
 
 Suppose the weekend’s coming up, and you heard of a concert. You have to make a decision: do you go to the concert? Or stay home?
 
-[![mesh ex.](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-39-32-pm.png?ssl=1&w=450)](
+[![mesh ex.](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-45-51-pm.png?ssl=1&w=450)](
 https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjf8cXzwpHVAhUC-GMKHZnLBUAQjBwIBA&url=http%3A%2F%2Fclipartsign.com%2Fdl.php%3Fd%3D1842&psig=AFQjCNFX3ELQAeMYAThepSCDNdqaoqCOcg&ust=1500422330517855)
 
 Well, this isn’t enough information for you to make a decision yet! There are several factors that might affect your decision:
