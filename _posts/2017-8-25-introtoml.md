@@ -26,7 +26,7 @@ This post is concerned with what happens when the machine is more than a tool, w
 
 ## So what does machine-generated art look like?
 
-[insert example]
+![ml art](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-18-51-pm.png?ssl=1&w=450)
 
 To get a closer look at machine learning, let’s investigate Snapchat.
 People my age use newfangled filters, like the puppy-dog face filter, where they can superimpose a puppy’s nose over their own and give themselves puppy ears.
