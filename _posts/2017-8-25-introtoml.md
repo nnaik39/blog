@@ -110,11 +110,11 @@ To understand how a machine learns from data, let’s take a simple example: lin
 Suppose I go around my school and ask nine kids: what’s your current grade? How many hours of homework do you have each night?
 Then I plot the answers on this graph.
 
-[insert graph]
+![graph #1](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-48-39-pm.png?ssl=1&w=450)
 
 A new person enrolls at my school, and I know their current grade. I want to predict: how many hours of homework would they have? Graphically, it would look like this:
 
-[insert graph]
+![graph #2](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-48-46-pm.png?ssl=1&w=450)
 
 What's the best way for me to predict the y-value for the purple dot?
 
@@ -122,11 +122,11 @@ What's the best way for me to predict the y-value for the purple dot?
 
 Answer: Fit a line to the data!
 
-[insert graph]
+![graph #3](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-48-50-pm.png?ssl=1&w=450)
 
 Then we can nicely predict where the purple dot is going to fall.
 
-[insert graph]
+![graph #4](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-48-56-pm.png?ssl=1&w=450)
 
 What if we want a computer to learn this function?
 
