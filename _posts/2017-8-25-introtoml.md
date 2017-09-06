@@ -8,14 +8,14 @@ title: A Somewhat Artsy Introduction to ML
 
 ## What happens when art interacts with technology?
 
-[![First Photograph](https://upload.wikimedia.org/wikipedia/commons/5/5c/View_from_the_Window_at_Le_Gras%2C_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5c/View_from_the_Window_at_Le_Gras%2C_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg)
+[![First Photograph](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-36-07-pm.png?ssl=1&w=450)](https://upload.wikimedia.org/wikipedia/commons/5/5c/View_from_the_Window_at_Le_Gras%2C_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg)
 
 This is the first photograph that was ever taken. It was taken by Joseph Niepce around 1826. This is the view from an upstairs window at his estate. Nowadays, photographs look more realistic and colorful and vibrant, like the ones in National Geographic. I imagine that when Joseph Niepce took this photograph, he could have never foreseen the many directions photography has taken art over the years. 
 
 Then we get to digital art, which is a huge field today. Below we can see an example of photoshop, as this image has definitely been photoshopped like crazy!
 
 [![Funny Photoshop](
-https://s-media-cache-ak0.pinimg.com/originals/c9/b8/c4/c9b8c4461b9b1c1dc2b8beb6cb9519c2.jpg)](
+https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-36-16-pm.png?ssl=1&w=450)](
 https://s-media-cache-ak0.pinimg.com/originals/c9/b8/c4/c9b8c4461b9b1c1dc2b8beb6cb9519c2.jpg)
 
 We see PhotoShopped images in our daily lives all the time, from magazine covers to advertisements to Instagram pictures. Indeed, the ability to digitally edit images has fundamentally altered the art of photography. Crucially, this isn't machine intelligence. Why not?
