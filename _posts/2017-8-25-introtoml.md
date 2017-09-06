@@ -60,7 +60,6 @@ Here's an example of Ariana Grande with the puppy face filter.
 )](http://assets.teenvogue.com/photos/579918989e016460296a15a2/master/pass/2%20-%20Ariana%20Grande.jpg)
 
 
-
 ## What’s going on here?
 
 (Note: Snapchat’s algorithm isn’t available to the general public, but several journalists have published articles on the high-level version.)
