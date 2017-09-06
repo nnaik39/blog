@@ -136,13 +136,13 @@ Let's assume f(x) is linear, so we can write y = wx + b. We don't know what *w* 
 
 Guess #1:
 
-[insert graph]
+![guess graph 1](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-53-00-pm.png?ssl=1&w=450)
 
 Guess #2:
 
-[insert graph]
+![guess graph 2](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-53-06-pm.png?ssl=1&w=450)
 
 Guess #3:
 
-[insert graph]
+![guess graph 3](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-53-12-pm.png?ssl=1&w=450)
 
