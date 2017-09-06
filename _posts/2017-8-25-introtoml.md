@@ -28,9 +28,26 @@ This post is concerned with what happens when the machine is more than a tool, w
 
 ![ml art](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-18-51-pm.png?ssl=1&w=450)
 
+[![ml art](
+https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-18-51-pm.png?ssl=1&w=450)](
+https://theredlist.com/media/database/fine_arts/arthistory/painting/realism_figurative_painting/georgia-o-keefe/015-georgia-o-keefe-theredlist.jpg)
+
 This is an example of style transfer! We'll go more into this concept in a later post. When my face is merged with a flower painting, it takes on some...interesting qualities. Note that this *is* machine intelligence, because the computer is making all the image-altering decisions.
 
-To get a closer look at machine learning, let’s investigate Snapchat filters.
+Let's look at another transformation.
+
+**Before:**
+
+![deepdream art](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-38-26-pm.png?ssl=1&w=450)
+
+**After:**
+
+![deepdream art](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-38-33-pm.png?ssl=1&w=450)
+
+Interestingly, the machine found a pattern of a bird inside these abstract swirls! This was made with Google's DeepDream. Imagine how hard it would be to PhotoShop this.
+
+## To get a closer look at machine learning, let’s investigate Snapchat filters.
+
 People my age use something called the puppy-dog face filter, where the camera superimposes a puppy’s nose over their own and give themselves puppy ears.
 Here's an example of Ariana Grande with the puppy face filter.
 
@@ -43,7 +60,8 @@ Here's an example of Ariana Grande with the puppy face filter.
 In order to give you puppy ears, Snapchat first has to identify the different parts of your face. To do this, it constructs a
 facial mesh or "point mask".
 
-[insert image below]
+[![mesh ex.](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-39-32-pm.png?ssl=1&w=450)](
+https://petapixel.com/2016/06/30/snapchats-powerful-facial-recognition-technology-works/)
 
 The mesh uses **computer vision**, which involves understanding images. 
 
@@ -62,7 +80,8 @@ It works similar to our brain. Just like us, it learns from observing, predictin
 
 Suppose the weekend’s coming up, and you heard of a concert. You have to make a decision: do you go to the concert? Or stay home?
 
-[insert image]
+[![mesh ex.](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-39-32-pm.png?ssl=1&w=450)](
+https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjf8cXzwpHVAhUC-GMKHZnLBUAQjBwIBA&url=http%3A%2F%2Fclipartsign.com%2Fdl.php%3Fd%3D1842&psig=AFQjCNFX3ELQAeMYAThepSCDNdqaoqCOcg&ust=1500422330517855)
 
 Well, this isn’t enough information for you to make a decision yet! There are several factors that might affect your decision:
 1. Do I have a test coming up? If so, which class is it in?
