@@ -20,7 +20,7 @@ https://s-media-cache-ak0.pinimg.com/originals/c9/b8/c4/c9b8c4461b9b1c1dc2b8beb6
 
 We see PhotoShopped images in our daily lives all the time, from magazine covers to advertisements to Instagram pictures. Indeed, the ability to digitally edit images has fundamentally altered the art of photography. Crucially, this isn't machine intelligence. Why not?
 
-** Answer: none of these are machine intelligence, because a human is doing the thinking. **
+**Answer: none of these are machine intelligence, because a human is doing the thinking.**
 
 This post is concerned with what happens when the machine is more than a tool, when it can make intelligent decisions.
 
