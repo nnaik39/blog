@@ -30,9 +30,11 @@ This post is concerned with what happens when the machine is more than a tool, w
 
 This is an example of style transfer! We'll go more into this concept in a later post. When my face is merged with a flower painting, it takes on some...interesting qualities. Note that this *is* machine intelligence, because the computer is making all the image-altering decisions.
 
-To get a closer look at machine learning, let’s investigate Snapchat.
-People my age use newfangled filters, like the puppy-dog face filter, where they can superimpose a puppy’s nose over their own and give themselves puppy ears.
-[insert example below]
+To get a closer look at machine learning, let’s investigate Snapchat filters.
+People my age use something called the puppy-dog face filter, where the camera superimposes a puppy’s nose over their own and give themselves puppy ears.
+Here's an example of Ariana Grande with the puppy face filter.
+
+![puppy filter](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-34-41-pm.png?ssl=1&w=450)
 
 ## What’s going on here?
 
