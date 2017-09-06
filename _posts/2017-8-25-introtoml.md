@@ -153,3 +153,28 @@ Guess #3:
 
 ![guess graph 3](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-53-12-pm.png?ssl=1&w=450)
 
+## Measuring Loss
+
+At this point, we have many guesses, but no way of comparing them to each other. How do we know how good our guess is?
+
+Let's measure **loss**. Loss is defined as the penalty for a wrong prediction. There are many different ways researchers use to compute this, such as the root mean squared error (RMS), and many others, but they're not very important. The most important idea regarding loss is that: less loss is better than more loss.
+
+The two graphs below demonstrate measuring loss for different functions.
+Question: Which function has the *most* loss? Which one is better?
+
+![loss graph 1](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-8-04-56-pm.png?ssl=1&w=450)
+
+![loss graph 2](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-8-05-10-pm.png?ssl=1&w=450)
+
+(Answer: The first one.)
+
+Cool! So we can guess functions, and evaluate how good or bad they are. Our goal now is to minimize the loss. We can do this using an optimization algorithm called gradient descent. Gradient descent is beyond the scope of this post--you can explore it further in this wonderful [explanation](http://ucanalytics.com/blogs/intuitive-machine-learning-gradient-descent-simplified/).
+The main idea is that we adjust our weights to arrive at the minimum loss.
+
+## Recap
+
+- **linear regression** is fitting a line to data
+- Steps:
+  1. Randomly choose *w* and *b* (in y = wx + b)
+  2. Calculate our loss ("less loss" means we are closer to the optimal function)
+  3. Adjust our weights until we arrive at the smallest loss
