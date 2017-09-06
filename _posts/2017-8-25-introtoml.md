@@ -57,8 +57,7 @@ People my age use something called the puppy-dog face filter, where the camera s
 Here's an example of Ariana Grande with the puppy face filter.
 
 ![puppy filter](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-05-at-7-34-41-pm.png?ssl=1&w=450
-)](
-http://assets.teenvogue.com/photos/579918989e016460296a15a2/master/pass/2%20-%20Ariana%20Grande.jpg)
+)](http://assets.teenvogue.com/photos/579918989e016460296a15a2/master/pass/2%20-%20Ariana%20Grande.jpg)
 
 
 
