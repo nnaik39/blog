@@ -4,7 +4,7 @@ title: A Somewhat Artsy Introduction to ML
 ---
 *note: in progress*
 
-*This blog post is a transcription of the introductory talk I delivered for an AI+Art [workshop](https://aiandart.wixsite.com/creaite). As a result, it focuses on artistic applications of machine learning.*
+*This blog post is a transcription of the introductory talk I delivered for an AI+Art [workshop](https://aiandart.wixsite.com/creaite). As a result, it begins with artistic applications of machine learning.*
 
 ## What happens when art interacts with technology?
 
@@ -203,17 +203,51 @@ If your answer is NO, please skip the section below. Else follow along.
 
 Suppose we do use the function above, and a new person walks in the room.
 
-
 ![overfit graph](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-34-03-pm.png?ssl=1&w=450)
 
 Let's use f(x) to predict how many homework hours they have!
 
-![graph](
-![overfit graph](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-34-03-pm.png?ssl=1&w=450))
+![graph](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-34-09-pm.png?ssl=1&w=450)
 
-Wait...is this the best answer?
+Wait...is this the best prediction?
 
+There's a theorem called Occam's Razor, which holds that the simplest explanation is most often the correct one. Occam's Razor would apply here. We're overcomplicating this function.
 
-The function we have is *too specific* to 
+This is a problem where the function we have is *too specific* to our training data. There's a term for this--**overfitting**, which happens when our function doesn't generalize to unfamiliar data. And if it can't do that, what's the point of applying fancy algorithms?
 
 For some real-world overfitting examples, check out [this](https://stats.stackexchange.com/questions/128616/whats-a-real-world-example-of-overfitting) StackOverflow thread.
+
+---
+
+So we don't want a nonlinear function which overfits. What about a function like the one below?
+
+![nonlinear graph](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-43-56-pm.png?ssl=1&w=450)
+
+It seems to fit the data reasonably, and isn't ridiculously specific to the data we already know. How could we model a function like this?
+
+**In general, for learning nonlinear functions, we want to use activation functions & neural networks.**
+
+---
+
+The inventor of the first neurocomputer defines a neural network as:
+
+'''
+"...a computing system made up of a number of simple, highly interconnected processing elements, which process information by their dynamic state response to external inputs.
+In "Neural Network Primer: Part I" by Maureen Caudill, AI Expert, Feb. 1989
+'''
+
+A neural network takes in the weights and input data, and outputs a function. Below is a model where the green dot represents a general neural network.
+
+![nn](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-46-04-pm.png?ssl=1&w=450)
+
+To model nonlinearity, the network employs an activation function such as a rectified linear unit, aka a ReLU.
+
+![relu](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-51-55-pm.png?ssl=1&w=450)
+
+[todo: finish later]
+
+## Why do activation functions work?
+
+The composition of linear functions is also a linear function.
+
+## Recap
