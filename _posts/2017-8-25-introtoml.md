@@ -178,3 +178,42 @@ The main idea is that we adjust our weights to arrive at the minimum loss.
   1. Randomly choose *w* and *b* (in y = wx + b)
   2. Calculate our loss ("less loss" means we are closer to the optimal function)
   3. Adjust our weights until we arrive at the smallest loss
+
+Suppose this is the line we finally arrive at.
+
+![final line](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-28-23-pm.png?ssl=1&w=450)
+
+## Why do we even care?
+
+The line we came up with doesn't get every data point exactly right. Why should we even try?
+
+See, the value of machine learning is not just telling us what we already know. The real value is in using machines to predict data we have never seen before. Fitting a line allows us to create a *generalized* function so that we can predict values for new data.
+
+So now we know how to fit a line to our homework hours vs. grades data. What if we want to fit a nonlinear function? Not everything in life can be explained linearly! How can we improve?
+
+Let's think carefully about what kind of nonlinear function we want.
+
+Does this look like a nice function?
+
+![overfitting graph](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-31-44-pm.png?ssl=1&w=450)
+
+If your answer is NO, please skip the section below. Else follow along.
+
+## Overfitting
+
+Suppose we do use the function above, and a new person walks in the room.
+
+
+![overfit graph](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-34-03-pm.png?ssl=1&w=450)
+
+Let's use f(x) to predict how many homework hours they have!
+
+![graph](
+![overfit graph](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-34-03-pm.png?ssl=1&w=450))
+
+Wait...is this the best answer?
+
+
+The function we have is *too specific* to 
+
+For some real-world overfitting examples, check out [this](https://stats.stackexchange.com/questions/128616/whats-a-real-world-example-of-overfitting) StackOverflow thread.
