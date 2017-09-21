@@ -2,7 +2,6 @@
 layout: post
 title: A Somewhat Artsy Introduction to ML
 ---
-*note: in progress*
 
 *This blog post is a transcription of the introductory talk I delivered for an AI+Art [workshop](https://aiandart.wixsite.com/creaite). As a result, it begins with artistic applications of machine learning.*
 
@@ -240,14 +239,26 @@ A neural network takes in the weights and input data, and outputs a function. Be
 
 ![nn](https://i2.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-46-04-pm.png?ssl=1&w=450)
 
-To model nonlinearity, the network employs an activation function such as a rectified linear unit, aka a ReLU.
+If we dive into this green dot, we'll find many other circles (which I'll call neurons), all of which are connected to each other. Neurons are organized into layers, such that the output of a neuron in layer X is the input of a neuron in layer X+1.
+
+![full nn](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-20-at-8-27-36-pm.png?ssl=1&w=450)
+
+Most often, there are other layers in between the input and output layer. Their job is to transform the input into something the output can use.
+
+![hidden layers](https://i0.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-20-at-8-32-49-pm.png?ssl=1&w=450)
+
+To model nonlinearity, the network puts the outputs of individual neurons through a function such as a rectified linear unit, aka a ReLU.
 
 ![relu](https://i1.wp.com/nanditanaik.files.wordpress.com/2017/09/screen-shot-2017-09-06-at-7-51-55-pm.png?ssl=1&w=450)
 
-[todo: finish later]
+A ReLU is defined as f(x) = max(0,x). There are many other kinds of nonlinear functions, but a ReLU is one of the simplest.
 
-## Why do activation functions work?
+## How does an activation function work?
 
-The composition of linear functions is also a linear function.
+On a mathematical level, when we pass a value from one neuron to the other, we're composing the functions of those various neurons. (By function composition, I mean
 
-## Recap
+Therefore if f~1, f~2, ..., f~n are the various functions of neurons, our output layer is going to be f~n(f~(n-1)...f~1).
+
+If all those functions are linear, the composition of linear functions is also a linear function. Our output is also going to be linear! Oh no! That means there's no difference between our network and linear regression!
+
+That's why we need an activation function, so that we're actually composing non-linear functions. This means we can model any function, no matter whether it is linear or not.
