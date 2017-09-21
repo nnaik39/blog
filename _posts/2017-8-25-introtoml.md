@@ -262,3 +262,7 @@ Therefore if f~1, f~2, ..., f~n are the various functions of neurons, our output
 If all those functions are linear, the composition of linear functions is also a linear function. Our output is also going to be linear! Oh no! That means there's no difference between our network and linear regression!
 
 That's why we need an activation function, so that we're actually composing non-linear functions. This means we can model any function, no matter whether it is linear or not.
+
+# Zooming out...
+
+A powerful neural network can, with these somewhat-simple tools, can process millions of any kind of data, learn the properties of that data, and generalize those properties to data it’s never seen before. For more learning resources, check out my other [post](https://nnaik39.github.io/Resources/).
