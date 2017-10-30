@@ -35,6 +35,9 @@ So I added in this line,
 >         rnn_cell = DropoutWrapper(rnn_cell, output_keep_prob=0.5), 
 
 right between the LSTM Cell and the two MultiRNNCells. Problem solved!
+
+** Connections to Humanity **
+
 While a lot of what my network wrote was frivolous, there were some lines that I found relevant to thinking about AI’s relationship to humanity. Take this line:
 *singing and and the warnings and the anxiety: and the fright.so and the battle—there and and the and the romance,” and the happily, and the and*
 Here my network is connecting actions to commonly felt feelings. Connecting “singing” to “anxiety”, for example, is really common amongst humans, and I think it’s cool that my network was able to learn this relationship. Also, we can see it has learned the grammar of a quotation mark (while not doing so well with periods)! In addition, it picks up on the relationship between the word “romance” and “happily”, which is very important since we think of romances as ending happily ever after.
